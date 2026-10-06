@@ -1,0 +1,14 @@
+C:\Users\25301071\tubgn\калькулятор\калькулятор\obj\Debug\net10.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25301071\tubgn\калькулятор\калькулятор\obj\Debug\net10.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\25301071\tubgn\калькулятор\калькулятор\obj\Debug\net10.0\Calculator.AssemblyInfo.cs
+C:\Users\25301071\tubgn\калькулятор\калькулятор\obj\Debug\net10.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\25301071\tubgn\калькулятор\калькулятор\bin\Debug\net10.0\Calculator.exe
+C:\Users\25301071\tubgn\калькулятор\калькулятор\bin\Debug\net10.0\Calculator.deps.json
+C:\Users\25301071\tubgn\калькулятор\калькулятор\bin\Debug\net10.0\Calculator.runtimeconfig.json
+C:\Users\25301071\tubgn\калькулятор\калькулятор\bin\Debug\net10.0\Calculator.dll
+C:\Users\25301071\tubgn\калькулятор\калькулятор\bin\Debug\net10.0\Calculator.pdb
+C:\Users\25301071\tubgn\калькулятор\калькулятор\obj\Debug\net10.0\Calculator.dll
+C:\Users\25301071\tubgn\калькулятор\калькулятор\obj\Debug\net10.0\refint\Calculator.dll
+C:\Users\25301071\tubgn\калькулятор\калькулятор\obj\Debug\net10.0\Calculator.pdb
+C:\Users\25301071\tubgn\калькулятор\калькулятор\obj\Debug\net10.0\Calculator.genruntimeconfig.cache
+C:\Users\25301071\tubgn\калькулятор\калькулятор\obj\Debug\net10.0\ref\Calculator.dll
