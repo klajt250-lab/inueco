@@ -1,0 +1,6 @@
+C:\Users\25301071\source\repos\Блокнот\Блокнот\obj\Debug\net8.0-windows\Блокнот.Form1.resources
+C:\Users\25301071\source\repos\Блокнот\Блокнот\obj\Debug\net8.0-windows\Блокнот.csproj.GenerateResource.cache
+C:\Users\25301071\source\repos\Блокнот\Блокнот\obj\Debug\net8.0-windows\Блокнот.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25301071\source\repos\Блокнот\Блокнот\obj\Debug\net8.0-windows\Блокнот.AssemblyInfoInputs.cache
+C:\Users\25301071\source\repos\Блокнот\Блокнот\obj\Debug\net8.0-windows\Блокнот.AssemblyInfo.cs
+C:\Users\25301071\source\repos\Блокнот\Блокнот\obj\Debug\net8.0-windows\Блокнот.csproj.CoreCompileInputs.cache
