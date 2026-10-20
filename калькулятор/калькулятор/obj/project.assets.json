@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\25301071\\.nuget\\packages\\": {},
+    "C:\\Users\\klajt\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\25301071\\tubgn\\калькулятор\\калькулятор\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\klajt\\OneDrive\\Desktop\\inueco-main\\калькулятор\\калькулятор\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\25301071\\tubgn\\калькулятор\\калькулятор\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\25301071\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\25301071\\tubgn\\калькулятор\\калькулятор\\obj\\",
+      "projectPath": "C:\\Users\\klajt\\OneDrive\\Desktop\\inueco-main\\калькулятор\\калькулятор\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\klajt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\klajt\\OneDrive\\Desktop\\inueco-main\\калькулятор\\калькулятор\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\25301071\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\klajt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -53,7 +53,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "11.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-rc.2.26504.105/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

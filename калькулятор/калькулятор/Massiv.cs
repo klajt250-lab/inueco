@@ -103,13 +103,24 @@ namespace Massiv
             }
             return result;
         }
-          
-        public double[] SortDesscending(double[] numbers)
-        { 
-            double[] rezult =(double[])numbers.Clone();
-            Array.Sort(rezult);
-            Array.Reverse(rezult);
-            return rezult;
+
+
+        public static List<double> SortUp(List<double> numbers)
+        {
+            List<double> list = new List<double>(numbers);
+            for (int i = 0; i < list.Count - 1; i++)
+            {
+                for (int j = 0; j < list.Count - 1 - i; j++)
+                {
+                    if (list[j] > list[j + 1])
+                    {
+                        double temp = list[j];
+                        list[j] = list[j + 1];
+                        list[j + 1] = temp;
+                    }
+                }
+            }
         }
     }
 }
+            
